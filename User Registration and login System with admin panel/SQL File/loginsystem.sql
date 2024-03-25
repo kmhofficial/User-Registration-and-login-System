@@ -61,8 +61,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `fname`, `lname`, `email`, `password`, `contactno`, `posting_date`) VALUES
-(1, 'Rahul', 'Kumar', 'rahulj23@gmail.com', 'Test@123', '1234563210', '2024-02-18 06:15:52'),
-(2, 'John', 'Doe', 'johndoe12@gamil.com', 'Test@12345', '4563210236', '2024-02-19 06:35:03');
+(1, 'Kaung', 'Myat', 'kaungmyat@gmail.com', 'Test@123', '1234563210', '2024-02-18 06:15:52'),
+(2, 'John', 'Wick', 'johnwick@gamil.com', 'Test@12345', '4563210236', '2024-02-19 06:35:03');
 
 --
 -- Indexes for dumped tables
